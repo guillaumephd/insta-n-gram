@@ -1,4 +1,4 @@
-# Insta-ngram
+# Insta-n-gram
 
 This repository holds a fast (safely multi-threaded) code for computing n-grams. It can be useful for very large text datasets, where parallel processing is needed in order to compute n-grams efficiently.
 
